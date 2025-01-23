@@ -23,3 +23,8 @@ public class Main{
    }  
 }
 
+output
+
+Addition of two integers: 999
+Addition of three integers: 1332
+Addition of two doubles: 30.369999999999997
